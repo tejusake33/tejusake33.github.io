@@ -1,0 +1,23 @@
+{
+  "name": "tejusake33.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css":"tailwind build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejusake33/tejusake33.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejusake33/tejusake33.github.io/issues"
+  },
+  "homepage": "https://github.com/tejusake33/tejusake33.github.io#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
