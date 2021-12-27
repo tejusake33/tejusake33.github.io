@@ -2,10 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 
-.card{
-    @apply bg-white rounded overflow-hidden shadow-md relative;
-}
 
-.btn{
-    @apply rounded py-2 px-2 uppercase text-xs font-bold cursor-pointer tracking-wider;
-}
+
