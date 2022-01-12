@@ -2,5 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
+.bloghome h1{
+    @apply font-bold text-gray-800 pt-1 text-left md:text-center lg:text-left mx-0 text-5xl font-sans; 
+}
